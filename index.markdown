@@ -11,7 +11,10 @@ layout: default
 
 ## PRELIM
 
+
 ###   Hands-on Activity 2: Install and configure your repository in remote Git in GitHub
+
+#### Dec 6, 2020 
 
 1. Create an account in Github
 
