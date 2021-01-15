@@ -9,12 +9,12 @@ layout: default
 ![1stpic](https://user-images.githubusercontent.com/75377706/104594832-ad7dd280-56ac-11eb-8dba-16a7f428d5d2.PNG)
 
 
-## PRELIM HANDS-ON ACTIVITY
+# PRELIM HANDS-ON ACTIVITY
 
 
-###   Hands-on Activity 2: Install and configure your repository in remote Git in GitHub
+##   Hands-on Activity 2: Install and configure your repository in remote Git in GitHub
 
-#### December 13, 2020 
+### December 13, 2020 
 
 1. Create an account in Github
 
@@ -103,15 +103,16 @@ Commands used:
 
 ![11thpic](https://user-images.githubusercontent.com/75377706/104605933-14ee4f00-56ba-11eb-852a-51f0f52a902e.PNG)
 
-## OUTPUT
+# OUTPUT
+
 [https://github.com/rmsenar-tip/sysad2-12021/tree/activity2](https://github.com/rmsenar-tip/sysad2-12021/tree/activity2)
 
 ![actvitiy2_tree](https://user-images.githubusercontent.com/75377706/104674432-9e376d00-571e-11eb-8391-d237c7acbdca.PNG)
 
 
-### Hands-on Activity 3: Ansible Basics
+## Hands-on Activity 3: Ansible Basics
 
-#### December 13, 2020 
+### December 13, 2020 
 
 Setup is Alpine and Ubuntu VMs are connected via a local network, in my case
 
@@ -149,15 +150,17 @@ Ubuntu VM,IP is 192.168.122.125 and hostname should be ubuntu-<your student numb
 
 15. Add commit push and create a PR.
 
-## OUTPUT
+
+# OUTPUT
+
 [https://github.com/rmsenar-tip/sysad2-12021/tree/activity3](https://github.com/rmsenar-tip/sysad2-12021/tree/activity3)
 
 ![actvitiy3_tree](https://user-images.githubusercontent.com/75377706/104675042-a80da000-571f-11eb-9e68-4e126ac0cd88.PNG)
 
 
-### Hands-on Activity 4: Ansible Playbooks
+## Hands-on Activity 4: Ansible Playbooks
 
-#### December 13, 2020 
+### December 13, 2020 
 
 1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git
 
@@ -175,7 +178,9 @@ Note: To Prevent Conflicts Create a directory with your username as its name and
 
 8. Request a pull request for the master branch in https://github.com/ajcanlas-tip/sysad2-12021.git  and activity4 branch of your forked repository.
 
-## OUTPUT
+
+# OUTPUT
+
 [https://github.com/rmsenar-tip/sysad2-12021/tree/activity4](https://github.com/rmsenar-tip/sysad2-12021/tree/activity4)
 
 ![actvitiy4_tree](https://user-images.githubusercontent.com/75377706/104675885-4f3f0700-5721-11eb-849f-a4ea19a3e7f9.PNG)
@@ -183,7 +188,7 @@ Note: To Prevent Conflicts Create a directory with your username as its name and
 
 ## Hands-on Activity 5: Implement Ansible roles in playbooks
 
-#### December 13, 2020 
+### December 13, 2020 
 
 1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git
 
@@ -201,7 +206,7 @@ Note: To Prevent Conflicts Create a directory with your username as its name and
 
 8. Request a pull request for the master branch in https://github.com/ajcanlas-tip/sysad2-12021.git  and activity5 branch of your forked repository.
 
-## OUTPUT
+# OUTPUT
 [https://github.com/rmsenar-tip/sysad2-12021/tree/activity5](https://github.com/rmsenar-tip/sysad2-12021/tree/activity5)
 
 ![actvitiy5_tree](https://user-images.githubusercontent.com/75377706/104676475-6a5e4680-5722-11eb-86ee-3e22ff1e2052.PNG)
