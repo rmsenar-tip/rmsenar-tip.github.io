@@ -106,11 +106,9 @@ Commands used:
 ## OUTPUT
 [https://github.com/rmsenar-tip/sysad2-12021/tree/activity2](https://github.com/rmsenar-tip/sysad2-12021/tree/activity2)
 
-```
-.
- HA2.md
- README.md
-```    
+![actvitiy2_tree](https://user-images.githubusercontent.com/75377706/104674432-9e376d00-571e-11eb-8391-d237c7acbdca.PNG)
+
+
 ### Hands-on Activity 3: Ansible Basics
 
 Setup is Alpine and Ubuntu VMs are connected via a local network, in my case
