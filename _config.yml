@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Managing Enterprise Servers Portfolio
-       Name: REJAY MAR V. SENAR
+title: Managing Enterprise Servers Portfolio by: REJAY MAR V. SENAR
 email: figureness269@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Final project in CPE 232-CPE31S2 - Managing Enterprise Servers. This contains all of Hands-On Activity quizzes and exams.
