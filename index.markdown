@@ -212,6 +212,105 @@ Note: To Prevent Conflicts Create a directory with your username as its name and
 ![actvitiy5_tree](https://user-images.githubusercontent.com/75377706/104676475-6a5e4680-5722-11eb-86ee-3e22ff1e2052.PNG)
 
 
+## Quiz 2.1: Ansible
+
+### December 13, 2020
+
+1. Create a directory named "quiz21" in your student number directory in Quiz 1.3/
+2. Create a markdown file named "README.md" in the newly created directory with the following contents:
+3. How to create an Ansible Configuration.
+4. How to create an Ansible Inventory.
+5. How to create an Ad-hoc Ansible command with setup and shell module.
+6. Then create a Pull request and put your forked repo in the only question of this quiz (Note answer this quiz as well as create a pull request).
 
 
+# OUTPUT
 
+[https://github.com/rmsenar-tip/sysad2-12021/tree/quiz2.1](https://github.com/rmsenar-tip/sysad2-12021/tree/quiz2.1)
+
+![quiz21_tree](https://user-images.githubusercontent.com/75377706/104678318-1bb2ab80-5726-11eb-8e9a-1a70058f61e0.PNG)
+
+
+## Quiz 2.2. Ansible Playbooks
+
+### December 13, 2020
+
+Follow the procedure:
+
+1. Create a directory named "quiz22" in your student number directory in Quiz 1.3
+2. Create a markdown file named "README.md" in the newly created directory with the directory summary.
+3. Transform this procedure (Links to an external site.) as a playbook 
+4. Then create a Pull request and put your forked repo in the only question of this quiz (Note answer this quiz as well as create a pull request).
+
+
+# OUTPUT
+
+[https://github.com/rmsenar-tip/sysad2-12021/tree/quiz2.2](https://github.com/rmsenar-tip/sysad2-12021/tree/quiz2.2)
+
+![quiz22_tree](https://user-images.githubusercontent.com/75377706/104678870-5bc65e00-5727-11eb-956d-5f4237050cd9.PNG)
+
+
+## Quiz 2.3. Ansible Roles
+
+### December 13, 2020
+
+1. Create a directory named "quiz23" in your student number directory in Quiz 1.3
+2. Create a markdown file named "README.md" in the newly created directory with the directory summary.
+3. Optimize Quiz 2.2 with roles.
+4. Then create a Pull request and put your forked repo in the only question of this quiz (Note answer this quiz as well as create a pull request).
+
+
+# OUTPUT
+
+[https://github.com/rmsenar-tip/sysad2-12021/tree/quiz2.3](https://github.com/rmsenar-tip/sysad2-12021/tree/quiz2.3)
+
+![quiz23_tree](https://user-images.githubusercontent.com/75377706/104679279-54538480-5728-11eb-92cf-7288168f0ba3.PNG)
+
+
+## Hands-on Prelim Exam
+
+### December 14, 2020
+
+1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git (Links to an external site.)
+
+2. Clone your new repository in your VM https://github.com/< your username >/sysad2-12021.git
+
+3. Create a branch named "prelim-exam" and checkout in that branch. 
+
+4. Create an Ansible playbook that does the following with an input of a config.yaml file
+
+Role 1 (python):
+
+1. Installs the latest python3 and pip3
+
+2. use pip3 as default pip 
+
+3. use python3 as default python 
+
+Role 2 (Java)
+
+1. Install Java open-jdk
+
+Role 3 (Change motd)
+
+1. Create Motd containing the text defined by a variable defined in config.yaml file and if there is no variable input the default motd is "Ansible Managed node by (your user name)"
+
+Role 4 (Create user)
+
+1. Create a user with a variable defined in config.yaml
+
+5. push and commit your prelim-exam branch in the VM (no need for ansible.cfg and inventory upon pushing)
+
+6. request a pull request from that branch in GitHub
+
+7. For your prelim exam to be counted, please paste your repository link as an answer in this exam.
+
+
+# OUTPUT
+
+[https://github.com/rmsenar-tip/sysad2-12021/tree/prelim-exam](https://github.com/rmsenar-tip/sysad2-12021/tree/prelim-exam)
+
+![prelim-exam_tree](https://user-images.githubusercontent.com/75377706/104679706-40f4e900-5729-11eb-9dc0-7aa9845ae51f.PNG)
+
+
+%
