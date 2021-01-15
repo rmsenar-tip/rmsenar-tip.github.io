@@ -6,7 +6,7 @@ layout: default
 ![1stpic](https://user-images.githubusercontent.com/75377706/104594832-ad7dd280-56ac-11eb-8dba-16a7f428d5d2.PNG)
 
 
-# MIDTERM & FINALS HANDS-ON ACTIVITY
+# MIDTERM HANDS-ON ACTIVITY
 
 
 ## Hands-on Activity 6: Install, configure, and manage enterprise services via Ansible
@@ -90,4 +90,4 @@ Follow the procedure:
 ![quiz41_2tree](https://user-images.githubusercontent.com/75377706/104692576-30516c80-5743-11eb-8e3e-6a6820490de5.PNG)
 
 
-[back](./)
+## [back to previous page](e./)
