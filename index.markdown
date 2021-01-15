@@ -9,12 +9,12 @@ layout: default
 ![1stpic](https://user-images.githubusercontent.com/75377706/104594832-ad7dd280-56ac-11eb-8dba-16a7f428d5d2.PNG)
 
 
-## PRELIM
+## PRELIM HANDS-ON ACTIVITY
 
 
 ###   Hands-on Activity 2: Install and configure your repository in remote Git in GitHub
 
-#### Dec 6, 2020 
+#### December 13, 2020 
 
 1. Create an account in Github
 
@@ -111,6 +111,8 @@ Commands used:
 
 ### Hands-on Activity 3: Ansible Basics
 
+#### December 13, 2020 
+
 Setup is Alpine and Ubuntu VMs are connected via a local network, in my case
 
 Alpine VM, IP is 192.168.122.117 (Or Any VM that has Git installed)
@@ -151,5 +153,60 @@ Ubuntu VM,IP is 192.168.122.125 and hostname should be ubuntu-<your student numb
 [https://github.com/rmsenar-tip/sysad2-12021/tree/activity3](https://github.com/rmsenar-tip/sysad2-12021/tree/activity3)
 
 ![actvitiy3_tree](https://user-images.githubusercontent.com/75377706/104675042-a80da000-571f-11eb-9e68-4e126ac0cd88.PNG)
+
+
+### Hands-on Activity 4: Ansible Playbooks
+
+#### December 13, 2020 
+
+1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git
+
+2. Clone your newly forked repository. 
+
+3. Make a new branch named "activity4" from master branch using git branch activity4 and git checkout activity4
+
+Note: To Prevent Conflicts Create a directory with your username as its name and go inside of it, and create a directory called "activity4" and go inside it.
+
+4. Make a new new remote upstream with git remote add upstream https://github.com/ajcanlas-tip/sysad2-12021.git
+
+5. Create a playbook that install java via package manager , and install boto,ansible,and openstack py packages using pip in both Ubuntu and Centos.
+
+7. add,commit and push it to your activity4 branch
+
+8. Request a pull request for the master branch in https://github.com/ajcanlas-tip/sysad2-12021.git  and activity4 branch of your forked repository.
+
+## OUTPUT
+[https://github.com/rmsenar-tip/sysad2-12021/tree/activity4](https://github.com/rmsenar-tip/sysad2-12021/tree/activity4)
+
+![actvitiy4_tree](https://user-images.githubusercontent.com/75377706/104675885-4f3f0700-5721-11eb-849f-a4ea19a3e7f9.PNG)
+
+
+## Hands-on Activity 5: Implement Ansible roles in playbooks
+
+#### December 13, 2020 
+
+1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git
+
+2. Clone your newly forked repository. 
+
+3. Make a new branch named "activity5" from master branch using git branch activity5 and git checkout activity5
+
+Note: To Prevent Conflicts Create a directory with your username as its name and go inside of it, and create a directory called "activity5" and go inside it.
+
+4. Make a new new remote upstream with git remote add upstream https://github.com/ajcanlas-tip/sysad2-12021.git
+
+5. Optimize the playbook in Hands-on Activity 4: Ansible Playbooks
+
+7. add,commit and push it to your activity5 branch
+
+8. Request a pull request for the master branch in https://github.com/ajcanlas-tip/sysad2-12021.git  and activity5 branch of your forked repository.
+
+## OUTPUT
+[https://github.com/rmsenar-tip/sysad2-12021/tree/activity5](https://github.com/rmsenar-tip/sysad2-12021/tree/activity5)
+
+![actvitiy5_tree](https://user-images.githubusercontent.com/75377706/104676475-6a5e4680-5722-11eb-86ee-3e22ff1e2052.PNG)
+
+
+
 
 
