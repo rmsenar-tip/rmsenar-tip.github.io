@@ -150,3 +150,6 @@ Ubuntu VM,IP is 192.168.122.125 and hostname should be ubuntu-<your student numb
 ## OUTPUT
 [https://github.com/rmsenar-tip/sysad2-12021/tree/activity3](https://github.com/rmsenar-tip/sysad2-12021/tree/activity3)
 
+![actvitiy3_tree](https://user-images.githubusercontent.com/75377706/104675042-a80da000-571f-11eb-9e68-4e126ac0cd88.PNG)
+
+
