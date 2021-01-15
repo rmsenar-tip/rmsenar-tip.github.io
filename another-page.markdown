@@ -90,4 +90,4 @@ Follow the procedure:
 ![quiz41_2tree](https://user-images.githubusercontent.com/75377706/104692576-30516c80-5743-11eb-8e3e-6a6820490de5.PNG)
 
 
-## [back to previous page](e./)
+## [back](e./)
