@@ -92,7 +92,7 @@ Follow the procedure:
 
 ## Hands-on Final Exam
 
-# January 21, 2021
+### January 21, 2021
 
 
 1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git (Links to an external site.)
@@ -124,7 +124,7 @@ Note: Extra points if you will implement the said services via containerization.
 
 [https://github.com/rmsenar-tip/sysad2-12021/tree/final-exam](https://github.com/rmsenar-tip/sysad2-12021/tree/final-exam)
 
-[![Final-exam_tree](https://user-images.githubusercontent.com/75377706/105153963-fcf84e80-5b43-11eb-9f0b-e16ce199d716.PNG)
+![Final-exam_tree](https://user-images.githubusercontent.com/75377706/105153963-fcf84e80-5b43-11eb-9f0b-e16ce199d716.PNG)
 
 
 
