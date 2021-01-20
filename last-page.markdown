@@ -9,6 +9,67 @@ layout: default
 # FINALS HANDS-ON ACTIVITY
 
 
+## Hands-on Activity 7: Install, configure, and manage enterprise monitoring via Ansible
+
+### January 7, 2021
+
+
+1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git
+
+2. Clone your newly forked repository. 
+
+3. Make a new branch named "activity7" from master branch using git branch activity7 and git checkout activity7
+
+4. Make a new remote upstream with git remote add upstream https://github.com/ajcanlas-tip/sysad2-12021.git
+
+5. Create a playbook that installs ELK, Nagios, Grafana + Prometheus in both Ubuntu and Centos (use Roles to optimize the playbook)
+
+6. Create different plays in installing per service and identify it as a group in Inventory file.
+
+7. add,commit and push it to your activity7 branch
+
+8. Request a pull request for the master branch in https://github.com/ajcanlas-tip/sysad2-12021.git  and activity7 branch of your forked repository
+
+
+# OUTPUT
+
+[https://github.com/rmsenar-tip/sysad2-12021/tree/activity7](https://github.com/rmsenar-tip/sysad2-12021/tree/activity7)
+
+![actvitiy7_tree](https://user-images.githubusercontent.com/75377706/105155899-1f8b6700-5b46-11eb-899b-3c96e5d0967c.PNG)
+
+
+## Hands-on Activity 8: Containerization
+
+### January 13, 2021
+
+
+1. Fork this repository https://github.com/ajcanlas-tip/sysad2-12021.git
+
+2. Clone your newly forked repository. 
+
+3. Make a new branch named "activity8" from master branch using git branch activity8 and git checkout activity8
+
+4. Make a new remote upstream with git remote add upstreamhttps://github.com/ajcanlas-tip/sysad2-12021.git
+
+5. Install Docker and enable the docker socket.
+
+6. Add to docker group to your current user.
+
+7. Create a Dockerfile to install web and db server
+
+8. Install and build the Dockerfile using Ansible.
+
+9. add,commit and push it to your activity8 branch
+
+10.  Request a pull request for the master branch in https://github.com/ajcanlas-tip/sysad2-12021.git  and activity8 branch of your forked repository
+
+# OUTPUT
+
+[https://github.com/rmsenar-tip/sysad2-12021/tree/activity8](https://github.com/rmsenar-tip/sysad2-12021/tree/activity8)
+
+![actvitiy8_tree](https://user-images.githubusercontent.com/75377706/105156429-cc65e400-5b46-11eb-8b94-0c91bfac31c4.PNG)
+
+
 ## Quiz 5.1: Containerization
 
 ### January 11, 2021
